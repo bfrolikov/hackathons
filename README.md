@@ -15,4 +15,4 @@ An Arduino based system that automatically waters plants based on the soil moist
 An experiment in using a CO<sub>2</sub> level detection [library](https://github.com/GeorgK/MQ135) for the MQ135 gas detection module.
 ## Other
 ### Robocup Junior Asia-Pacific 2017
-Around the 9<sup>th</sup> year of school I used to be interested in robotics and got a chance to participate in a 2017 international robotics competition called Robocup Junior, which was held in Bangkok, Thailand. Our team had a music playing robot. [Certificate link](https://drive.google.com/file/d/12XqY4EitE4ZOapDFky_Ec3vO3favfuaQ/view?usp=sharing)
+Around the 9<sup>th</sup> year of school I used to be interested in robotics and got a chance to participate in the 2017 international robotics competition called Robocup Junior, which was held in Bangkok, Thailand. Our team had a music playing robot. [Certificate link](https://drive.google.com/file/d/12XqY4EitE4ZOapDFky_Ec3vO3favfuaQ/view?usp=sharing)
