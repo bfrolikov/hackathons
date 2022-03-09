@@ -7,7 +7,7 @@ A voting website with a list of songs for a gradutation ceremony. [The backend](
 ### calculator-bot
 A calculator VK bot made to solve a known set of tasks for school geometry lessons. [Backend](https://github.com/bfrolikov/calculator-bot) - Node.js.
 ### IT-Samsung-finals
-A finals project for the Samsung IT school: an Android app for a social network for freelance tour guides. This was my very first large-scale project and therefore it features a lot of poor design decisions and low quality code. I use it as an example of my growth as a programmer. [Repository link](https://github.com/bfrolikov/IT-Samsung-finals).
+A finals project for the Samsung IT school: an Android app for a social network for freelance tour guides. This was my very first large-scale project and I use it as an example of my growth as a programmer. [Repository link](https://github.com/bfrolikov/IT-Samsung-finals).
 ## DIY and electronics
 ### automatic-watering
 An Arduino based system that automatically waters plants based on the soil moisture level. It uses a capacitive moisture sensor and a diaphragm pump. More details in the [YouTube video](https://youtu.be/GPbA5ufYR2Q) and in the [repository](https://github.com/bfrolikov/automatic-watering). Attiny-85 based [version 2](https://easyeda.com/editor#id=|8ab5f8ef05ec47ddb18944865dc3412f|2cdea431182140679714265d43e7cc74) hopefully coming soon.
