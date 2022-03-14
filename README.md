@@ -1,4 +1,6 @@
 ## Hackathons
+### Tezos DeFi Hackathon 2022
+As a team of 4 people, we are building a bridge between the Tezos and Everscale blockchains. I am responsible for the necessary smart contracts [in Solidity](https://github.com/Big-Kotik/tzs-ever-bridge-sol-contract) and [LIGO](https://github.com/Big-Kotik/tzs-ever-bridge-ligo-contract). The [relay sever](https://github.com/Big-Kotik/tzs-ever-bridge-relay) is being written in Go. [Link to project overview page](https://github.com/Big-Kotik/tz-ever-bridge).
 ### TulaHack 2021
 As a team of 5 people, we built a peer-to-peer messaging app that uses websockets to send messages between users. [The authentication service](https://github.com/Big-Kotik/p2p-chat-backend) is written in Java and uses JWT tokens. [The node server](https://github.com/Big-Kotik/p2p-ws-network) that handles websocket communitation is written in Go. It supports chat rooms with multiple people and relaying messages between nodes.
 ## Personal projects
